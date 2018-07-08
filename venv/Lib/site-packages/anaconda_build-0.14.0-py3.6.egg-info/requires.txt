@@ -1,0 +1,3 @@
+anaconda-client
+jinja2
+psutil
